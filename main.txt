@@ -2,3 +2,5 @@ This is a main file.
 - push 1 from main local
 - local main - to check status
 - local main - testing pull 1
+- remote main - testing fetch 1
+- remote main - testing pull 1

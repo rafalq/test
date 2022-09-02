@@ -1,2 +1,3 @@
 just created
-change
+change from remote
+change from local

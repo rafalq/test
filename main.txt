@@ -4,9 +4,7 @@ This is a main file.
 - local main - testing pull 1
 - remote main - testing fetch 1
 - remote main - testing pull 1
-<<<<<<< HEAD
 - local main - testing pull 2
-=======
 - remote main - testing pull 2
->>>>>>> 2c42c8d9f8977df58cad8caa3b921e69055d27d0
 - remote main - testing pull 3
+- local main - testing pull 3

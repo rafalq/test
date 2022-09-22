@@ -9,3 +9,4 @@ This is a main file.
 - remote main - testing pull 3
 - local main - testing pull 3
 from local main - 1
+from remote main - 1
